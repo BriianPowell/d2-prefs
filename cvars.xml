@@ -46,13 +46,13 @@
 		<cvar name="light_attack" value="left mouse button!unused" />
 		<cvar name="heavy_attack" value="right mouse button!unused" />
 		<cvar name="block" value="extra mouse button 1!unused" />
-		<cvar name="switch_weapons" value="4!unused" />
+		<cvar name="switch_weapons" value="4!g" />
 		<cvar name="next_weapon" value="mouse wheel up!unused" />
 		<cvar name="previous_weapon" value="mouse wheel down!unused" />
 		<cvar name="primary_weapon" value="1!unused" />
 		<cvar name="special_weapon" value="2!unused" />
 		<cvar name="heavy_weapon" value="3!unused" />
-		<cvar name="move_forward" value="w!unused" />
+		<cvar name="move_forward" value="w!g" />
 		<cvar name="move_backward" value="s!unused" />
 		<cvar name="move_left" value="a!unused" />
 		<cvar name="move_right" value="d!unused" />
@@ -60,7 +60,7 @@
 		<cvar name="toggle_crouch" value="unused!unused" />
 		<cvar name="hold_crouch" value="control!unused" />
 		<cvar name="toggle_sprint" value="unused!unused" />
-		<cvar name="hold_sprint" value="shift!unused" />
+		<cvar name="hold_sprint" value="shift!g" />
 		<cvar name="vehicle_boost" value="shift!unused" />
 		<cvar name="vehicle_brake" value="extra mouse button 1!unused" />
 		<cvar name="vehicle_zoom" value="right mouse button!unused" />
@@ -73,7 +73,7 @@
 		<cvar name="emote_2" value="down!unused" />
 		<cvar name="emote_3" value="left!unused" />
 		<cvar name="emote_4" value="right!unused" />
-		<cvar name="air_move" value="v!unused" />
+		<cvar name="air_move" value="z!unused" />
 		<cvar name="class_ability" value="x!extra mouse button 2" />
 		<cvar name="death_cam_zoom_in" value="mouse wheel up!unused" />
 		<cvar name="death_cam_zoom_out" value="mouse wheel down!unused" />
@@ -96,7 +96,7 @@
 		<cvar name="ui_abort_activity" value="j!unused" />
 		<cvar name="ui_text_chat_toggle_state" value="unused!unused" />
 		<cvar name="screenshot" value="print screen!unused" />
-		<cvar name="stasis_breakout" value="z!unused" />
+		<cvar name="stasis_breakout" value="v!unused" />
 	</namespace>
 	<namespace name="audio">
 		<cvar name="cached_music_volume" value="5" />
