@@ -24,7 +24,7 @@
 		<cvar name="atmosphere_lighting_detail" value="1" />
 		<cvar name="master" value="0" />
 		<cvar name="framerate_cap_enabled" value="1" />
-		<cvar name="fullscreen_resolution_width" value="2560" />
+		<cvar name="fullscreen_resolution_width" value="3440" />
 		<cvar name="fullscreen_resolution_height" value="1440" />
 		<cvar name="fullscreen_refresh_rate_numerator" value="143923" />
 		<cvar name="fullscreen_refresh_rate_denominator" value="1000" />
@@ -73,7 +73,7 @@
 		<cvar name="emote_2" value="down!unused" />
 		<cvar name="emote_3" value="left!unused" />
 		<cvar name="emote_4" value="right!unused" />
-		<cvar name="air_move" value="v!unused" />
+		<cvar name="air_move" value="z!unused" />
 		<cvar name="class_ability" value="x!extra mouse button 2" />
 		<cvar name="death_cam_zoom_in" value="mouse wheel up!unused" />
 		<cvar name="death_cam_zoom_out" value="mouse wheel down!unused" />
@@ -96,7 +96,7 @@
 		<cvar name="ui_abort_activity" value="j!unused" />
 		<cvar name="ui_text_chat_toggle_state" value="unused!unused" />
 		<cvar name="screenshot" value="print screen!unused" />
-		<cvar name="stasis_breakout" value="z!unused" />
+		<cvar name="stasis_breakout" value="v!unused" />
 	</namespace>
 	<namespace name="audio">
 		<cvar name="cached_music_volume" value="5" />

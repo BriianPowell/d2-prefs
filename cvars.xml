@@ -24,7 +24,7 @@
 		<cvar name="atmosphere_lighting_detail" value="1" />
 		<cvar name="master" value="0" />
 		<cvar name="framerate_cap_enabled" value="1" />
-		<cvar name="fullscreen_resolution_width" value="2560" />
+		<cvar name="fullscreen_resolution_width" value="3440" />
 		<cvar name="fullscreen_resolution_height" value="1440" />
 		<cvar name="fullscreen_refresh_rate_numerator" value="143923" />
 		<cvar name="fullscreen_refresh_rate_denominator" value="1000" />
