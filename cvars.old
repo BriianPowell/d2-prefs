@@ -5,7 +5,7 @@
 		<cvar name="force_enable_multi_threaded_render_submit" value="0" />
 		<cvar name="window_position_x" value="8" />
 		<cvar name="window_position_y" value="31" />
-		<cvar name="window_mode" value="2" />
+		<cvar name="window_mode" value="3" />
 		<cvar name="anti_aliasing_mode" value="1" />
 		<cvar name="motion_blur_mode" value="0" />
 		<cvar name="dof_mode" value="2" />
@@ -73,7 +73,7 @@
 		<cvar name="emote_2" value="down!unused" />
 		<cvar name="emote_3" value="left!unused" />
 		<cvar name="emote_4" value="right!unused" />
-		<cvar name="air_move" value="v!unused" />
+		<cvar name="air_move" value="z!unused" />
 		<cvar name="class_ability" value="x!extra mouse button 2" />
 		<cvar name="death_cam_zoom_in" value="mouse wheel up!unused" />
 		<cvar name="death_cam_zoom_out" value="mouse wheel down!unused" />
@@ -96,7 +96,7 @@
 		<cvar name="ui_abort_activity" value="j!unused" />
 		<cvar name="ui_text_chat_toggle_state" value="unused!unused" />
 		<cvar name="screenshot" value="print screen!unused" />
-		<cvar name="stasis_breakout" value="z!unused" />
+		<cvar name="stasis_breakout" value="v!unused" />
 	</namespace>
 	<namespace name="audio">
 		<cvar name="cached_music_volume" value="5" />

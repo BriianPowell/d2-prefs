@@ -5,7 +5,7 @@
 		<cvar name="force_enable_multi_threaded_render_submit" value="0" />
 		<cvar name="window_position_x" value="8" />
 		<cvar name="window_position_y" value="31" />
-		<cvar name="window_mode" value="2" />
+		<cvar name="window_mode" value="3" />
 		<cvar name="anti_aliasing_mode" value="1" />
 		<cvar name="motion_blur_mode" value="0" />
 		<cvar name="dof_mode" value="2" />
@@ -47,8 +47,8 @@
 		<cvar name="heavy_attack" value="right mouse button!unused" />
 		<cvar name="block" value="extra mouse button 1!unused" />
 		<cvar name="switch_weapons" value="4!g" />
-		<cvar name="next_weapon" value="mouse wheel up!unused" />
-		<cvar name="previous_weapon" value="mouse wheel down!unused" />
+		<cvar name="next_weapon" value="v!unused" />
+		<cvar name="previous_weapon" value="b!unused" />
 		<cvar name="primary_weapon" value="1!unused" />
 		<cvar name="special_weapon" value="2!unused" />
 		<cvar name="heavy_weapon" value="3!unused" />
@@ -56,7 +56,7 @@
 		<cvar name="move_backward" value="s!unused" />
 		<cvar name="move_left" value="a!unused" />
 		<cvar name="move_right" value="d!unused" />
-		<cvar name="jump" value="space!unused" />
+		<cvar name="jump" value="space!mouse wheel down" />
 		<cvar name="toggle_crouch" value="unused!unused" />
 		<cvar name="hold_crouch" value="control!unused" />
 		<cvar name="toggle_sprint" value="unused!unused" />
@@ -96,7 +96,7 @@
 		<cvar name="ui_abort_activity" value="j!unused" />
 		<cvar name="ui_text_chat_toggle_state" value="unused!unused" />
 		<cvar name="screenshot" value="print screen!unused" />
-		<cvar name="stasis_breakout" value="v!unused" />
+		<cvar name="stasis_breakout" value="mouse wheel up!unused" />
 	</namespace>
 	<namespace name="audio">
 		<cvar name="cached_music_volume" value="5" />
